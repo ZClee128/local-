@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  local本地化(适配语言)
+
+  Created by mac on 16/4/13.
+  Copyright (c) 2016年 gxd. All rights reserved.
+*/
+
+//修改程序名字，中文状态下名字为中文
+CFBundleDisplayName = "中文";

@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  local本地化(适配语言)
+
+  Created by mac on 16/4/13.
+  Copyright (c) 2016年 gxd. All rights reserved.
+*/
+
+"testKey" = "测试内容";
